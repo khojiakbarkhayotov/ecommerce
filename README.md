@@ -40,6 +40,6 @@ Both ideas offer a specialized approach to their respective markets, focusing on
 # Steps Following Idea Selection
 1.	Instructor Feedback: I have discussed the idea of both bookstore and ecommerce platform with Danila Chechitov. First of all, I wished to choose the bookstore project, because it seemed to be a popular application and useful tool to store up the books have read and plan in ahead what to read.
      However, I have thought the implementation of the project and it seems like it is not enough strong project to select for the capstone project as it would contain only get requests and bunch of boring staff. To fix that I have advised with my instructor and come up to the decision of implementing ecommerce application.
-2. Git Repository Creation: I have set up public repository in the github and named it as ecommerce, with this [Link link](https://github.com/khojiakbarkhayotov/ecommerce) you can view it publicly.
-3. Task Tracking Service Setup: for the project I have used canban from Trello to track what should be done, what is doing and implemented. You can find through following [Link link](https://trello.com/b/IfXYmK3x/capstone-projects).
+2. Git Repository Creation: I have set up public repository in the github and named it as ecommerce, with this [link](https://github.com/khojiakbarkhayotov/ecommerce) you can view it publicly.
+3. Task Tracking Service Setup: for the project I have used canban from Trello to track what should be done, what is doing and implemented. You can find through following [link](https://trello.com/b/IfXYmK3x/capstone-projects).
 
