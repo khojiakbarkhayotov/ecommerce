@@ -1,7 +1,9 @@
 # Ecommerce
-Stage 1. Capstone Project and Setup
-Project Idea 1: E-commerce Platform for Electronics
-Title: TechMart - Your Ultimate Electronics Store
+
+##Stage 1. Capstone Project and Setup##
+
+##Project Idea 1: E-commerce Platform for Electronics##
+Title: #TechMart# - Your Ultimate Electronics Store
 High-Level Overview:
 TechMart is an advanced e-commerce platform dedicated to selling electronics. It aims to provide a seamless shopping experience tailored specifically for tech enthusiasts. The platform will offer a wide range of electronic products, including smartphones, laptops, tablets, accessories, and smart home devices. 
 
